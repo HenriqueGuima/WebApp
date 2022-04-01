@@ -20,23 +20,6 @@ small {
   margin-bottom: -15px;
 }
 
-circle {
-  fill: rgb(255, 255, 0);
-  fill-opacity: 1;
-  stroke: rgb(115, 115, 0);
-  stroke-opacity: 1;
-  stroke-width: 1.33;
-  stroke-linecap: butt;
-  stroke-linejoin: miter;
-  stroke-miterlimit: 4;
-  cx: 600;
-  cy: 390;
-  r: 40.5;
-  transform: matrix(1, 0, 0, 1, 0, 0);
-  fill-rule: evenodd;
-  stroke-dasharray: none;
-}
-
 .calcite .esriSimpleSlider div {
   width: 135px;
   height: 80px;
